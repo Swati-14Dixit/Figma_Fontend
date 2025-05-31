@@ -30,5 +30,7 @@ Boot
 --| images
 --| index.html
 --| styles.css
+Web vieew
+--| website images (3)
 
 
